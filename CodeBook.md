@@ -13,8 +13,8 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Subject: the ID of the Subject
 Activity: the Name of the Activity performed by the subject when measurements were taken
 
-##Final Data
-str(newData)
+## Final Data
+`str(newData)`
 
-##Final Data Set
-summary(newData)
+## Final Data Set
+`summary(newData)`
