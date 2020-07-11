@@ -11,6 +11,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ## Variable
 Subject: the ID of the Subject
+
 Activity: the Name of the Activity performed by the subject when measurements were taken
 
 ## Final Data
