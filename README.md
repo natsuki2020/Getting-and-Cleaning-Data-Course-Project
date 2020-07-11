@@ -14,6 +14,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-R script Source file is 'run_analysis.R'. 
-Final output is 'tidy_data_set.txt'.
-'CodeBook.md' describes the variables, the data, and any work that perform to clean up the data.
+R script Source file is `run_analysis.R`. 
+Final output is `tidy_data_set.txt`.
+`CodeBook.md` describes the variables, the data, and any work that perform to clean up the data.
